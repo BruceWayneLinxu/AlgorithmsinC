@@ -1,2 +1,2 @@
 # AlgorithmsinC
-Algorithms in C
+Algorithms in C, Robert Sedgewick

@@ -1,5 +1,5 @@
 #include <math.h>
-#include "point.h"
+#include "Point.h"
 float distance(point a, point b)
 {
   float dx = a.x - b.x, dy = a.y - b.y;

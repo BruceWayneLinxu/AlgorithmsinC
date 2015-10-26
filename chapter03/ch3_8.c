@@ -28,6 +28,8 @@ int main(int argc, char *argv[])
       }
     }
   }
+  free(a);
+  a = NULL;
   printf("%d edges shorter than %f\n", cnt, d);
   return 0;
 }

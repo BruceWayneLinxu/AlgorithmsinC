@@ -1,7 +1,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include "node.h"
+#include "link.h"
 
 void print_link(link x);
 void release_link(link x);

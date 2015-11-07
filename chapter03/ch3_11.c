@@ -1,7 +1,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include "link.h"
+#include "list.h"
 
 void print_link(link x);
 void release_link(link x);
